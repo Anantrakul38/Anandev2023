@@ -711,13 +711,13 @@ img {
 
 /* Dark-light mode */
 .dark_light_toggle {
-    position: fixed;
+/*     position: fixed; */
     cursor: pointer;
     width: 53px;
     height: 23px;
     padding: 0 5px;
-    display: flex;
-    align-items: center;
+/*     display: flex;
+    align-items: center; */
 }
 
 .dark_light_toggle_indicator {
