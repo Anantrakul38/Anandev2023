@@ -1,20 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- <head>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
     <?php include('condb/condb.php'); ?>
     <?php include('head.php'); ?>
-</head> -->
-
-<!-- Css -->
-<link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/responsive.css" />
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="css/bootstrap.css" />
-    <!-- icon tab -->
-    <link rel="icon" type="image/x-icon" href="img/" />
-    <!-- fontawesome -->
-    <link rel="stylesheet" href="fontawesome-free-6.4.0-web/css/all.css" />
+</head>
 
 <body>
     <!-- Select menu -->
@@ -201,12 +191,51 @@
         </div>
     </header>
 
+    <main class="main_l">
+
+        <div class="carousel_l">
+            <div class="owl-carousel owl-theme">
+                <div class="item">
+                    <img src="img/nisdt_logo301.png" alt="">
+                </div>
+                <div class="item">
+                    <img src="img/nisdt_logo301.png" alt="">
+                </div>
+                <div class="item">
+                    <img src="img/nisdt_logo4.png" alt="">
+                </div>
+                <div class="item">
+                    <img src="img/nisdt_logo303.png" alt="">
+                </div>
+                <div class="item">
+                    <img src="img/nisdt_logo302.png" alt="">
+                </div>
+            </div>
+        </div>
+    </main>
 
 
-    <!-- <?php include('footer.php') ?> -->
-    <script src="js/script.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    
+
+    <?php include('footer.php') ?>
+    <script>
+        $('.owl-carousel').owlCarousel({
+            stagePadding: 50,
+            loop: true,
+            margin: 10,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+    </script>
 </body>
 
 </html>

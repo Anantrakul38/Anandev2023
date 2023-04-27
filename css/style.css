@@ -874,3 +874,21 @@ img {
 .sp_menu.open .sp_humburger::after {
     transform: rotate(-45deg) translate(35px, 35px);
 }
+
+/* main */
+.main_l {
+    display: block;
+}
+
+/* Owl-carousel */
+.carousel_l {
+    max-width: auto;
+    margin: 0 auto;   
+    margin-top: 180px;
+    height: auto;
+    
+}
+
+.owl-carousel {
+    border: 1px solid red;
+}
