@@ -161,7 +161,7 @@ margin: 10px;
     padding: 1rem;
     background-color: var(--color-background);
     position: relative;
-    width: calc(315px + 4 * 70px + 4rem);
+    /* width: calc(315px + 4 * 70px + 4rem); */
     display: flex;
     justify-content: center;
     border-radius: 20px 20px;
