@@ -712,8 +712,6 @@ img {
 /* Dark-light mode */
 .dark_light_toggle {
     cursor: pointer;
-    width: 53px;
-    padding: 0 5px;
 }
 
 .dark_light_toggle_indicator {
