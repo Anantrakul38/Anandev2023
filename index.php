@@ -199,99 +199,24 @@
         <div class="carousel_l">
             <div class="owl-carousel owl-theme">
                 <div class="item">
-                    <img src="img/nisdt_logo301.png" alt="">
+                    <img src="img/header4.jpg" alt="">
                 </div>
                 <div class="item">
-                    <img src="img/nisdt_logo301.png" alt="">
+                    <img src="img/header4.jpg" alt="">
                 </div>
                 <div class="item">
-                    <img src="img/nisdt_logo4.png" alt="">
+                    <img src="img/header4.jpg" alt="">
                 </div>
                 <div class="item">
-                    <img src="img/nisdt_logo303.png" alt="">
+                    <img src="img/header4.jpg" alt="">
                 </div>
                 <div class="item">
-                    <img src="img/nisdt_logo302.png" alt="">
+                    <img src="img/header4.jpg" alt="">
                 </div>
             </div>
         </div>
-<p>
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae neque debitis ex, quisquam placeat dolorem pariatur fugit harum, natus facilis assumenda animi totam magnam consequuntur illum vitae. Dignissimos, ut iste.
 
-</p>
+
     </main>
 
 
@@ -299,19 +224,22 @@
     <?php include('footer.php') ?>
     <script>
         $('.owl-carousel').owlCarousel({
-            stagePadding: 50,
+            stagePadding: 20, 
             loop: true,
-            margin: 10,
+            margin: 1,
             nav: true,
+            dots: true,
+            autoplay: true,
+            autoplayTimeout: 8000,
             responsive: {
                 0: {
                     items: 1
                 },
                 600: {
-                    items: 3
+                    items: 1
                 },
                 1000: {
-                    items: 5
+                    items: 1
                 }
             }
         })
