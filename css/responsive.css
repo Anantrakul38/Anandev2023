@@ -153,7 +153,10 @@
 .sp_tool-list {
 padding: 0 10px;
 margin: 10px;
+}
 
+.carousel_l {
+    margin-top: 140px;
 }
 
 .c-img {
