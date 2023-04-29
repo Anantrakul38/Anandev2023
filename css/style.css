@@ -881,7 +881,7 @@ img {
 }
 
 .owl-stage .item img {
-    height: 100vh;
+    height: 540px;
     width: 100vw;
     object-fit: cover;
 }
