@@ -197,7 +197,7 @@
     <main class="main_l">
 
         <div class="carousel_l">
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel owl-theme" id="c_slider">
                 <div class="item">
                     <img src="img/header4.jpg" alt="">
                 </div>
@@ -216,32 +216,22 @@
             </div>
         </div>
 
-
     </main>
 
 
 
     <?php include('footer.php') ?>
     <script>
-        $('.owl-carousel').owlCarousel({
+     $('.owl-carousel').owlCarousel({
             stagePadding: 20, 
             loop: true,
             margin: 1,
             nav: true,
             dots: true,
             autoplay: true,
-            autoplayTimeout: 8000,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 1
-                },
-                1000: {
-                    items: 1
-                }
-            }
+            autoplayTimeout: 6000,
+            autoplayHoverPause: true,
+            items: 1
         })
     </script>
 </body>
