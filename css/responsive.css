@@ -156,6 +156,13 @@ margin: 10px;
 
 }
 
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(1);
+}
+
+
 /* menu social */
 .contact-detail {
     padding: 1rem;

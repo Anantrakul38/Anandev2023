@@ -196,22 +196,22 @@
 
     <main class="main_l">
 
-        <div class="carousel_l">
-            <div class="owl-carousel owl-theme" id="c_slider">
-                <div class="item">
-                    <img src="img/header4.jpg" alt="">
+        <div id="carousel_b" class="carousel_l">
+            <div class="owl-carousel owl-theme">
+                <div class="item c-item">
+                    <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
-                <div class="item">
-                    <img src="img/header4.jpg" alt="">
+                <div class="item c-item">
+                    <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
-                <div class="item">
-                    <img src="img/header4.jpg" alt="">
+                <div class="item c-item">
+                    <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
-                <div class="item">
-                    <img src="img/header4.jpg" alt="">
+                <div class="item c-item">
+                    <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
-                <div class="item">
-                    <img src="img/header4.jpg" alt="">
+                <div class="item c-item">
+                    <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
             </div>
         </div>
