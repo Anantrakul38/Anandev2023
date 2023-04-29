@@ -131,7 +131,7 @@
 
 .sp_bottom_header {
     position: absolute;
-    top: 48px;
+    top: 43px;
     right: -85%;
     width: 85%;
     max-width: calc(100vh - 90px);
