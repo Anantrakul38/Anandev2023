@@ -902,7 +902,7 @@ img {
 }
 
 .slick-arrow span:hover {
-    color: #fff;
+    color: var(--color--redarmy-hover);
     font-size: 40px;
     padding: 10px;
 }
