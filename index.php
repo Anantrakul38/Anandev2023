@@ -227,12 +227,16 @@
             loop: true,
             margin: 1,
             nav: true,
+            navText: ['<div class="slick-arrow prev"><span class="fa fa-angle-left"></span></div>','<div class="slick-arrow next"><span class="fa fa-angle-right"></span></div>'],
             dots: true,
             autoplay: true,
             autoplayTimeout: 6000,
             autoplayHoverPause: true,
             items: 1
         })
+
+
+        
     </script>
 </body>
 

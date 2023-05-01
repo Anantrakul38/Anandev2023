@@ -886,6 +886,63 @@ img {
     filter: brightness(1);
 }
 
+.slick-arrow {
+    position: absolute;
+    top: 50%;
+    display: block;
+    z-index: 9;
+    transform: translate(0, -50%);
+    cursor: pointer;
+}
+
+.slick-arrow span {
+    color: var(--color--redarmy);
+    font-size: 40px;
+    padding: 10px;
+}
+
+.slick-arrow span:hover {
+    color: #fff;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.slick-arrow.prev {
+    left: 0;
+}
+
+.slick-arrow.next {
+    right: 0;
+}
+
+#carousel_b .owl-dots {
+    width: 100%;
+    bottom: 10%;
+    position: absolute;
+}
+
+#carousel_b .owl-dots .owl-dot span {
+    background-color: transparent;
+    width: 14px;
+    height: 14px;
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+    transform: scale(0.8);
+    transition: 0.3s all;
+    align-items: center;
+    justify-content: center;
+}
+#carousel_b .owl-dots .owl-dot:hover span, 
+#carousel_b .owl-dots .owl-dot.active span {
+    background-color: var(--color--redarmy);
+    transform: scale(1);
+}
+
+.owl-nav {
+    margin: 0;
+    line-height: 0;
+    height: 0;
+}
 
 
 /* Feel free to change duration  */ 
