@@ -199,19 +199,19 @@
         <div id="carousel_b" class="carousel_l">
             <div class="owl-carousel owl-theme">
                 <div class="item c-item">
-                    <img src="img/header4.jpg" class="c-img" alt="">
+                    <img src="img/header1.jpg" class="c-img" alt="">
+                </div>
+                <div class="item c-item">
+                    <img src="img/header2.jpg" class="c-img" alt="">
+                </div>
+                <div class="item c-item">
+                    <img src="img/header3.jpg" class="c-img" alt="">
                 </div>
                 <div class="item c-item">
                     <img src="img/header4.jpg" class="c-img" alt="">
                 </div>
                 <div class="item c-item">
-                    <img src="img/header4.jpg" class="c-img" alt="">
-                </div>
-                <div class="item c-item">
-                    <img src="img/header4.jpg" class="c-img" alt="">
-                </div>
-                <div class="item c-item">
-                    <img src="img/header4.jpg" class="c-img" alt="">
+                    <img src="img/header3.jpg" class="c-img" alt="">
                 </div>
             </div>
         </div>
@@ -223,16 +223,17 @@
     <?php include('footer.php') ?>
     <script>
      $('.owl-carousel').owlCarousel({
-            stagePadding: 20, 
+            /* stagePadding: 20,  */
             loop: true,
             margin: 1,
             nav: true,
             navText: ['<div class="slick-arrow prev"><span class="fa fa-angle-left"></span></div>','<div class="slick-arrow next"><span class="fa fa-angle-right"></span></div>'],
             dots: true,
             autoplay: true,
-            autoplayTimeout: 6000,
+            autoplayTimeout: 5000,
             autoplayHoverPause: true,
-            items: 1
+            items: 1,
+            animateOut: 'fadeOut',
         })
 
 

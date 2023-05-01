@@ -17,6 +17,7 @@
     <!-- fontawesome -->
     <link rel="stylesheet" href="fontawesome-free-6.4.0-web/css/all.css" />
     <!-- owl.carouse -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="css/animate.css" />
 </head>
